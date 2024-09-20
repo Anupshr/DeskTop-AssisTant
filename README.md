@@ -4,5 +4,5 @@ this is a 💻 Desktop assistant
 https://www.jetbrains.com/pycharm/download/?section=windows
 # Then paste this script and run 
 it will be your assistant
-# When you modify this comment in instragram me 
+# When you want to modify this code comment me in instragram  
 I give you modified code 
